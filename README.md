@@ -27,8 +27,19 @@ SORU1:
          i++;
      }
  }
+ÇIKTI:
+Kendime inanıyorum, ben bu yazılım işini hallederim!
+Kendime inanıyorum, ben bu yazılım işini hallederim!
+Kendime inanıyorum, ben bu yazılım işini hallederim!
+Kendime inanıyorum, ben bu yazılım işini hallederim!
+Kendime inanıyorum, ben bu yazılım işini hallederim!
+Kendime inanıyorum, ben bu yazılım işini hallederim!
+Kendime inanıyorum, ben bu yazılım işini hallederim!
+Kendime inanıyorum, ben bu yazılım işini hallederim!
+Kendime inanıyorum, ben bu yazılım işini hallederim!
+Kendime inanıyorum, ben bu yazılım işini hallederim!
 
-![resim](https://github.com/user-attachments/assets/975e29ec-fcb3-466b-8116-e93bbd1e5864)
+*************************************************************************************************
 
 //SORU 2
  static void Main(string[] args)
@@ -45,8 +56,31 @@ SORU1:
      Console.Read();
  }
 
-![resim](https://github.com/user-attachments/assets/0384cd16-6b19-4282-9610-ca7042d5838c)
+ÇIKTI :
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
 
+
+
+*************************************************************************************************
 
 SORU 3:
  static void Main(string[] args)
@@ -61,9 +95,28 @@ SORU 3:
          i++;
      }
  }
+ÇIKTI:
 
-![resim](https://github.com/user-attachments/assets/2430d5bc-d5fe-4966-a1ff-c0b890349e70)
+2
 
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+18
+
+20
+*************************************************************************************************
 
 SORU 4:
  static void Main(string[] args)
@@ -79,8 +132,11 @@ SORU 4:
      }
      Console.WriteLine(sum);
  }
-![resim](https://github.com/user-attachments/assets/1e1be92d-1f4b-44a2-8c86-8a62bd7d8810)
 
+ÇIKTI:
+10100
+
+*************************************************************************************************
 
 SORU 5:
 static void Main(string[] args)
