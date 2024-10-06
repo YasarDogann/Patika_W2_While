@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\Week2\\patika_w2_while_examples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D62047DA-59E5-4E45-817A-6BABCA974E87}|question3\\question3.csproj|c:\\users\\yasar\\source\\repos\\patika\u002B\\week2\\patika_w2_while_examples\\question3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D62047DA-59E5-4E45-817A-6BABCA974E87}|question3\\question3.csproj|solutionrelative:question3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18250C7-259A-485D-9E14-C7FDC17B2CDB}|question4\\question4.csproj|c:\\users\\yasar\\source\\repos\\patika\u002B\\week2\\patika_w2_while_examples\\question4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18250C7-259A-485D-9E14-C7FDC17B2CDB}|question4\\question4.csproj|solutionrelative:question4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE2B87A-1B5D-467A-A6E2-4AB271A0573C}|question5\\question5.csproj|c:\\users\\yasar\\source\\repos\\patika\u002B\\week2\\patika_w2_while_examples\\question5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE2B87A-1B5D-467A-A6E2-4AB271A0573C}|question5\\question5.csproj|solutionrelative:question5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\Week2\\patika_w2_while_examples\\question5\\Program.cs",
+              "RelativeDocumentMoniker": "question5\\Program.cs",
+              "ToolTip": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\Week2\\patika_w2_while_examples\\question5\\Program.cs",
+              "RelativeToolTip": "question5\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA7wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T09:51:24.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\Week2\\patika_w2_while_examples\\question4\\Program.cs",
+              "RelativeDocumentMoniker": "question4\\Program.cs",
+              "ToolTip": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\Week2\\patika_w2_while_examples\\question4\\Program.cs",
+              "RelativeToolTip": "question4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T09:47:43.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\Week2\\patika_w2_while_examples\\question3\\Program.cs",
+              "RelativeDocumentMoniker": "question3\\Program.cs",
+              "ToolTip": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\Week2\\patika_w2_while_examples\\question3\\Program.cs",
+              "RelativeToolTip": "question3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T09:42:36.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

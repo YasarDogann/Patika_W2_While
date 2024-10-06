@@ -1,0 +1,2 @@
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_while_examples\patika_w2_while_examples\obj\Debug\patika_w2_while_examples.csproj.AssemblyReference.cache
+C:\Users\yasar\source\repos\Patika+\Week2\patika_w2_while_examples\patika_w2_while_examples\obj\Debug\patika_w2_while_examples.csproj.CoreCompileInputs.cache
